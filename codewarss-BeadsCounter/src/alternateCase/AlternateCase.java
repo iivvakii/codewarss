@@ -12,5 +12,6 @@ public class AlternateCase {
             }
         }
         return result;
+
     }
 }
